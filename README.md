@@ -282,6 +282,7 @@
 ## Tools & SDKs
 
 - [Quilio](https://www.quilio.dev/) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - We maintain tools to help developers build real-time audio AI applications with ease.
+- [PlaceCall](https://voygr.tech/placecall/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Voice agent that an AI assistant sends to phone US businesses through phone menus and hold, returning the call outcome, transcript and recording through a REST API or MCP server.
 
 ---
 
